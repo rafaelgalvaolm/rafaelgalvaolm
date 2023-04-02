@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, Typescript and Python 
 - 👯 I’m looking to collaborate on various Open Source projects that needs front-end translation from and to Portuguese, English and/or Italian
 - 📫 Reach me at my Email: rafaelgalvaolm.dev@gmail.com
-- ❗I am currently not looking for any kind of job or internship, i am extremly happy where i am working.
+- ❗I am currently not looking for any kind of job or internship, i am extremely happy where i am working.
 - ⚡ Fun fact(s): I already have a major in law and a postgrad in digital law, i was a digital law professor for sometime, but realized my heart was elsewhere 
 
 
