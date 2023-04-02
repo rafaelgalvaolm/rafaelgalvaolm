@@ -6,6 +6,14 @@
 - ❗I am currently not looking for any kind of job or internship, i am extremly happy where i am working.
 - ⚡ Fun fact(s): I already have a major in law and a postgrad in digital law, i was a digital law professor for sometime, but realized my heart was elsewhere 
 
+
+- 🔗 Visit my LinkedIn page → https://www.linkedin.com/in/rafael-galvao-613581214/
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonight)
+
+
 <!--
 **rafaelgalvaolm/rafaelgalvaolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
