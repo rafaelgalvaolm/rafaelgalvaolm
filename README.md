@@ -9,6 +9,10 @@
 
 - 🔗 Visit my LinkedIn page → https://www.linkedin.com/in/rafael-galvao-613581214/  
 
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonight)
+
 <br/>  
 
 
@@ -59,11 +63,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&theme=tokyonights&show_icons=true&"/></div>
-
-<br/>  
     
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
