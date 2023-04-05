@@ -61,7 +61,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonight)" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonight)" align="center" /></div>  
 
 <br/>  
     
