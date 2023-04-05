@@ -61,7 +61,7 @@
 
 
 ## Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonights"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&theme=tokyonights&show_icons=true&"/></div>
 
 <br/>  
     
