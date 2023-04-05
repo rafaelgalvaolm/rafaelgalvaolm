@@ -7,14 +7,15 @@
 - ⚡ Fun fact(s): I already have a major in law and a postgrad in digital law, i was a digital law professor for sometime, but realized my heart was elsewhere 
 
 
-- 🔗 Visit my LinkedIn page → https://www.linkedin.com/in/rafael-galvao-613581214/
+- 🔗 Visit my LinkedIn page → https://www.linkedin.com/in/rafael-galvao-613581214/  
 
+<br/>  
 
-<!--
-**rafaelgalvaolm/rafaelgalvaolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
+
+
 
 ### Frontend  
 <div align="center">  
@@ -59,20 +60,10 @@
 <br/>  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonight)
+## Github Stats  
+<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonight)" align="center" /></div>  
 
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
+    
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
