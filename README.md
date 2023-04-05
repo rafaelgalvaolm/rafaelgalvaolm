@@ -10,14 +10,11 @@
 - 🔗 Visit my LinkedIn page → https://www.linkedin.com/in/rafael-galvao-613581214/
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonight)
-
-
 <!--
 **rafaelgalvaolm/rafaelgalvaolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -60,6 +57,11 @@
 </td></tr></table>  
 
 <br/>  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonight)
+
+
 
 
 
