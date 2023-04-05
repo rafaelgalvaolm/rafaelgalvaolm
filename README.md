@@ -61,7 +61,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonight)" align="center" /></div>  
+<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</div>  
 
 <br/>  
     
