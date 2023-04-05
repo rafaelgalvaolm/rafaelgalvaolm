@@ -61,7 +61,7 @@
 
 
 ## Github Stats  
-<div>https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical</div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=rafaelgalvaolm&show_icons=true&theme=tokyonights"/></div>
 
 <br/>  
     
