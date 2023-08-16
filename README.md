@@ -9,7 +9,7 @@
 
 - 🔗 Visit my LinkedIn page → https://www.linkedin.com/in/rafael-galvao-613581214/
 
-- MLSA 2023 - Micrososft Learn Student Ambassador 
+- MLSA 2023 - Microsoft Learn Student Ambassador 
 
 <br/>
 
