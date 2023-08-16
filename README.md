@@ -7,7 +7,9 @@
 - ⚡ Fun fact(s): I already have a major in law and a postgrad in digital law, i was a digital law professor for sometime, but realized my heart was elsewhere 
 
 
-- 🔗 Visit my LinkedIn page → https://www.linkedin.com/in/rafael-galvao-613581214/  
+- 🔗 Visit my LinkedIn page → https://www.linkedin.com/in/rafael-galvao-613581214/
+
+- MLSA 2023 - Micrososft Learn Student Ambassador 
 
 <br/>
 
