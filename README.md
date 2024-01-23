@@ -1,4 +1,5 @@
 ### Hello There, My name is Rafael Galvao, i am a Software Engineer from Brazil and Italy (Crazy, right?🤷‍♂️)
+- MLSA 2023 - Microsoft Learn Student Ambassador
 - 🔭 I’m currently working on .NET and Jquery Applications for SMN Tecnologia da Informação as a Intern
 - 🌱 I’m currently learning C#, Typescript and Python 
 - 👯 I’m looking to collaborate on various Open Source projects that needs front-end translation from and to Portuguese, English and/or Italian
@@ -7,9 +8,7 @@
 - ⚡ Fun fact(s): I already have a major in law and a postgrad in digital law, i was a digital law professor for sometime, but realized my heart was elsewhere 
 
 
-- 🔗 Visit my LinkedIn page → https://www.linkedin.com/in/rafael-galvao-613581214/
-
-- MLSA 2023 - Microsoft Learn Student Ambassador 
+- 🔗 Visit my LinkedIn page → https://www.linkedin.com/in/rafael-galvao-613581214/ 
 
 <br/>
 
